@@ -1,18 +1,16 @@
-# Happines Dashboard (Interactive LookerStudio/DataStudio Dashboard)  
-## **Background & Rationale:** 
+# Happiness Dashboard (Interactive LookerStudio/DataStudio Dashboard)  
+## Background & Rationale
 This project explores factors that influence happiness around the world using both the World Happiness Report (scraped from this [site](https://data.worldhappiness.report/table)) and my own happiness dataset collected over 9 months. This dashboard is designed to allow you to explore trends in how different countries rank for predictors of happiness around the world. Additionally, this dashboard includes a tab exploring my own habits and how they've contributed to my happiness ratings. I hope this dashboard is as fun to play around with as it was to build - Happy Visualizing! 
 
 **Data Sources:** World Happiness Report, my own happiness dataset 
 
-**Date Range:** 
-* World Happiness Report: 2015-2025 (score refresh = annual)
-* My happiness dataset: July 2025-March 2026 (score refresh = daily)
+**Date Range:** World Happiness Report: 2015-2025 (score refresh = annual); My happiness dataset: July 2025-March 2026 (score refresh = daily)
 
-## **Project Objectives:** 
+## Project Objectives 
 1. To analyze factors that influence happiness ranking of countries included in the WHR (global factors) 
 2. To analyze the impact of different habits on my own happiness score (individual habits)
 
-## **Questions Explored (KPIs)**
+## Questions Explored
 *World Happiness Report*
 - What are the top and bottom happiest countries on average over the last 10 years?
 - What countries & regions rank the highest for caring behavior?
@@ -37,8 +35,9 @@ This project explores factors that influence happiness around the world using bo
 - Connect GSheet to DataStudio dashboard and build dynamic charts to answer the questions stated above
 - QC dashboard with underlying GSheet
 
-## Dashboard: Example View
-- Filtering for Region = Americas OR Europe <a href="https://github.com/jrippe2020/happiness-dashboard-repo/blob/main/Happiness_Dashboard.pdf">View Dashboard</a>
+## Dashboard
+- Example [View](https://github.com/jrippe2020/happiness-dashboard-repo/blob/main/Happiness_Dashboard.pdf)
+- Dashboard [link](https://datastudio.google.com/u/0/reporting/d5e423dc-24b2-422f-8fd0-6e90f5622991/page/G78tF)
 
 ### ***BONUS:*** 
-If you found this dashboard interesting, I have a longer analysis pulling out some key trends from these data and providing a predictive model on what drives happiness! Check out my Google Colab Notebook for the analysis [here](https://github.com/jrippe2020/happiness-python-analysis-repo).
+If you found this dashboard interesting, I have a longer analysis pulling out some key trends from these data and providing a predictive model on what drives happiness! Check out my analysis conducted using Python [here](https://github.com/jrippe2020/happiness-python-analysis-repo).
