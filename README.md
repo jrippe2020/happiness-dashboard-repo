@@ -1,4 +1,4 @@
-# Happiness Dashboard (Interactive LookerStudio/DataStudio Dashboard)  
+# Around The World In 80 Charts: A Dashboard On Happiness (Interactive LookerStudio/DataStudio Dashboard)  
 ## Background & Rationale
 This project explores factors that influence happiness around the world using both the World Happiness Report (scraped from this [site](https://data.worldhappiness.report/table)) and my own happiness dataset collected over 9 months. This dashboard is designed to allow you to explore trends in how different countries rank for predictors of happiness around the world. Additionally, this dashboard includes a tab exploring my own habits and how they've contributed to my happiness ratings. I hope this dashboard is as fun to play around with as it was to build - Happy Visualizing! 
 
